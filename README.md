@@ -10,7 +10,8 @@
 
 # Main Skills #
   <ul>
-    <li>Web developing and Fronend Develpment with React.JS, Next.JS, Typescript, TailwindCSS</li>
-    <li>Backend Development with Python, Flask, Django.</li>
-    <li>AI with Machine Learning, Deep Learning, NLP, Machine Vision </li>
+    <li>Web developing and Fronend Develpment with React.JS, Next.JS, Typescript, TailwindCSS, Bootstrap</li>
+    <li>Backend Development with Python, Flask, Django</li>
+    <li>Database with PostgreSQL, MySQL, MongoDB</li>
+    <li>AI with Machine Learning, Deep Learning, NLP, Machine Vision</li>
   </ul>
