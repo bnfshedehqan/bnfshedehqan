@@ -1,1 +1,3 @@
-# banafshedehqan
+- 👋 Hi, I’m Banafshe Dehqan 
+- 👀 I’m interested in computer science 
+- 🌱 I’m currently learning NodeJS
