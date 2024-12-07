@@ -1,7 +1,7 @@
 # Hello! 👋 I’m Banafshe Dehqan  #
 <div>
 	<br/>
-	- 👀 I’m interested in computer science 
+	- 👩🏻‍💻 I’m interested in computer science 
 	<br/>
 	- 🌱 I’m currently learning NodeJS
 </div>
